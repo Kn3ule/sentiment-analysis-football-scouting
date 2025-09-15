@@ -3,8 +3,10 @@ import os
 import pandas as pd
 import json
 import pandas as pd
+from dotenv import load_dotenv
 
-openai_key = os.getenv("OPEN_API_KEY")
+load_dotenv()
+openai_key = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI(api_key=openai_key)
 

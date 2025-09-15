@@ -1,0 +1,263 @@
+{
+    "clubs": [
+        {
+        "club_name": "vfb",
+        "players": [
+            "Alexander Nübel",
+            "Dennis Seimen",
+            "Fabian Bredlow",
+            "Stefan Drljaca",
+            "Ameen Al-Dakhil",
+            "Jeff Chabot",
+            "Dan-Axel Zagadou",
+            "Anthony Rouault",
+            "Leonidas Stergiou",
+            "Anrie Chase",
+            "Ramon Hendriks",
+            "Maximilian Mittelstädt",
+            "Frans Krätzig",
+            "Josha Vagnoman",
+            "Pascal Stenzel",
+            "Angelo Stiller",
+            "Atakan Karazor",
+            "Yannik Keitel",
+            "Nikolas Nartey",
+            "Enzo Millot",
+            "Fabian Rieder",
+            "Chris Führich",
+            "Justin Diehl",
+            "Jamie Leweling",
+            "Luca Raimund",
+            "Nick Woltemade",
+            "Ermedin Demirovic",
+            "Deniz Undav",
+            "El Bilal Toure"
+        ]
+        },
+        {
+            "club_name": "bayer04",
+            "players":[
+                "Matej Kovar",
+                "Lukas Hradecky",
+                "Edmond Tabsoba",
+                "Piero Hincapie",
+                "Jonathan Tah",
+                "Florian Wirtz",
+                "Granit Xhaka",
+                "Robert Andrich",
+                "Victor Boniface",
+                "Alejandro Grimaldo"
+            ]
+        },
+        {
+            "club_name": "fcbayern",
+            "players":[
+                "Manuel Neuer",
+                "Min-Jae Kim",
+                "Dayot Upamecano",
+                "Alphonso Davies",
+                "Joshua Kimmich",
+                "Aleksandar Pavlovic",
+                "Jamal Musiala",
+                "Serge Gnabry",
+                "Leroy Sane",
+                "Michael Olise"
+            ]
+        },
+        {
+            "club_name": "fch",
+            "players":[
+                "Kevin Müller",
+                "Patrick Mainka",
+                "Benedikt Gimber",
+                "Jonas Föhrenbach",
+                "Lennard Maloney",
+                "Niklas Dorsch",
+                "Jan Schöppner",
+                "Paul Wanner",
+                "Leo Scienza",
+                "Marvin Pieringer"
+            ]
+        },
+        {
+            "club_name": "bvb",
+            "players":[
+                "Gregor Kobel",
+                "Nico Schlotterbeck",
+                "Waldemar Anton",
+                "Emre Can",
+                "Niklas Süle",
+                "Julian Brandt",
+                "Karim Adeyemi",
+                "Donyell Malen",
+                "Serhou Guirassy",
+                "Maximilian Beier"
+            ]
+        },
+        {
+            "club_name": "fcchelsea",
+            "players":[
+                "Robert Sanchez",
+                "Marc Cucurella",
+                "Reece James",
+                "Enzo Fernandez",
+                "Cole Palmer",
+                "Christopher Nkunku",
+                "Jadon Sancho",
+                "Joao Felix",
+                "Wesley Fofana",
+                "Ben Chilwell"
+            ]
+        },
+        {
+            "club_name": "liverpoolfc",
+            "players":[
+                "Allison",
+                "Ibrahima Konate",
+                "Joe Gomez",
+                "Trent Alexander-Arnold",
+                "Alexis Mac Allister",
+                "Ryan Gravenberch",
+                "Curtis Jones",
+                "Dominik Szoboszlai",
+                "Luis Diaz",
+                "Mohamed Salah"
+            ]
+        },
+        {
+            "club_name": "avfc",
+            "players":[
+                "Emiliano Martinez",
+                "Pau Torres",
+                "Diego Carlos",
+                "Lucas Digne",
+                "Ian Maatsen",
+                "Leon Bailey",
+                "Ollie Watkins",
+                "Morgan Rogers",
+                "Jacob Ramsey",
+                "Youri Tielemans"
+            ]
+        },
+        {
+            "club_name": "mancity",
+            "players":[
+                "Ederson",
+                "Josko Gvardiol",
+                "Kyle Walker",
+                "Rodri",
+                "Mateo Kovacic",
+                "Ilkay Gündogan",
+                "Bernardo Silva",
+                "Kevin De Bruyne",
+                "Phil Foden",
+                "Erling Haaland"
+            ]
+        },
+        {
+            "club_name": "arsenal",
+            "players":[
+                "David Raya",
+                "William Saliba",
+                "Ben White",
+                "Jurrien Timber",
+                "Oleksandr Zinchenko",
+                "Thomas Partey",
+                "Martin Odegaard",
+                "Declan Rice",
+                "Kai Havertz",
+                "Gabriel Martinelli"
+            ]
+        },
+        {
+            "club_name": "sevillafc",
+            "players":[
+                "Alvaro Fernandez",
+                "Loic Bade",
+                "Valentin Barco",
+                "Juanlu Sanchez",
+                "Jesus Navas",
+                "Djibril Sow",
+                "Dodi Lukebakio",
+                "Isaac Romero",
+                "Kelechi Iheanacho",
+                "Albert Sambi Lokonga"
+            ]
+        },
+        {
+            "club_name": "realsociedad",
+            "players":[
+                "Alex Remiro",
+                "Nayef Aguerd",
+                "Igor Zubeldia",
+                "Jon Pacheco",
+                "Sheraldo Becker",
+                "Mikel Oyarzabal",
+                "Takefusa Kubo",
+                "Martin Zubimendi",
+                "Brais Mendez",
+                "Luka Sucic"
+            ]
+        },
+        {
+            "club_name": "villarealcf",
+            "players":[
+                "Diego Conde",
+                "Logan Costa",
+                "Raul Albiol",
+                "Sergi Cardona",
+                "Juan Foyth",
+                "Dani Parejo",
+                "Pape Gueye",
+                "Ilias Akhomach",
+                "Nicolas Pepe",
+                "Ayoze Perez"
+            ]
+        },
+        {
+            "club_name": "lille",
+            "players": [
+                "Lucas Chevalier",
+                "Bafode Diakite",
+                "Alexsandro",
+                "Mitchel Bakker",
+                "Benjamin Andre",
+                "Ayyoub Bouaddi",
+                "Jonathan David",
+                "Matias Fernandez-Pardo",
+                "Edon Zhegrova",
+                "Angel Gomes"
+            ]
+        },
+        {
+            "club_name": "staderennesfc",
+            "players":[
+                "Steve Mandanda",
+                "Christopher Wooh",
+                "Alidu Seidu",
+                "Lorenz Assignon",
+                "Adrien Truffert",
+                "Glen Kamara",
+                "Baptiste Santamaria",
+                "Ludovic Blas",
+                "Amine Gouiri",
+                "Arnaud Kalimuendo"
+            ]
+        },
+        {
+            "club_name": "rclens",
+            "players":[
+                "Brice Samba",
+                "Jonathan Gradit",
+                "Kevin Danso",
+                "Facundo Medina",
+                "Neil El Aynaoui",
+                "Deiver Machado",
+                "Przemyslaw Frankowski",
+                "David Pereira da Costa",
+                "Andy Diouf",
+                "Remy Labeau Lascary"
+            ]
+        }
+    ]
+}

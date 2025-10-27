@@ -78,17 +78,18 @@ To process JSON files, the following format is expected:
 ```
 .
 ├── data
-│   ├── instagram
-│   │   └── club_instacomments.json        <-- JSON data from instagram for specific clubs
+│   ├── raw
+│   │   └── club_instacomments.json        <-- unlabeled JSON data for specific clubs
 │       └── ...
 │   ├── labeled
 │   │   └── labeled_data.csv               <-- Labeled data for model evaluation
 │       └── ...
 │   └── processed
-│       ├── club.csv                       <-- Example of processed CSV with sentiment analysis
+│       ├── club.csv                       <-- Example of already processed data (csv file)
 │       └── ...
 ├── notebooks
-│   ├── Data_Collection.ipynb              <-- Jupyter notebook for the example of potential web scraping
+│   ├── Create_evaluation_dataset.ipynb    <-- Jupyter notebook for the creation of the evaluation dataset (only artifact)
+│   ├── Create_evaluation_dataset.ipynb    <-- Jupyter notebook for plotting the distribution of sentiment labels for the evaluation dataset
 │   └── models.ipynb                       <-- Jupyter notebook for the model evaluation to perform sentiment analysis
 ├── src
 │   ├── app.py                             <-- Main Streamlit dashboard

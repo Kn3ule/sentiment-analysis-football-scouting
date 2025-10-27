@@ -59,17 +59,21 @@ To process JSON files, the following format is expected:
 
 ### Quick Usage
 
-1. **Local Usage**  
+1. **Local Usage**
    - Clone the repository
    - Install the required Python packages (see [Local Deployment](#31-local-deployment))
    - Create the `.env` file (OpenAI Key)
    - Run `app.py` in the `src` directory (e.g., via `streamlit run app.py`)
    - Open the browser and navigate to the dashboard URL. From there, upload JSON/CSV files and start the analysis.
 
-2. **Docker Usage**  
+2. **Docker Usage**
    - Build the Docker image (see [Docker Deployment](#32-docker-deployment))
    - Make sure to include the `.env` file (for the OpenAI key) when running the container
    - Run the container, then open the corresponding URL in your browser to use the dashboard.
+
+### Testing the Dashboard with Pre-classified Data
+
+If you want to test the dashboard without running a new sentiment analysis, you can use the pre-classified datasets available in the `data/processed/` directory. These CSV files contain already analyzed comments for various clubs and can be directly uploaded to the dashboard for immediate visualization and exploration of the results.
 
 ---
 

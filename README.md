@@ -1,6 +1,6 @@
 # sentiment analysis football scouting
 
-This repository provides the code for a research project with the titel "Integrating Sentiment Analysis into Football Scouting: A Data Driven Approach".
+This repository provides the code for a research project with the title "Integrating Sentiment Analysis into Football Scouting: A Data Driven Approach".
 It provides an application for the automated analysis of social media comments of football fans. The application can be run both locally and in a Docker environment. Below you will find a detailed explanation of how the project is structured, which data can be processed, and how to use the application.
 
 ---
